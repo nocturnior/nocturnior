@@ -1,5 +1,5 @@
-👋 안녕하세요 FE이 되고싶은 지망생입니다.
-
+### 👋 안녕하세요 FE이 되고싶은 지망생입니다.
+---
 
 ## 🔨Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
